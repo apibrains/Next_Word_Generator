@@ -4,5 +4,6 @@ matplotlib
 seaborn
 tensorflow
 wikipedia
+scikit-learn
 
 -e .
